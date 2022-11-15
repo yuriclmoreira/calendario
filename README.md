@@ -1,11 +1,15 @@
+# Executado o projeto  <h1>
 
-### `npm start`
+1.Importe o banco de dados descrito na pasta **bancoDados**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+2.Abra a pasta api e execute no terminal o comando abaixo para iniciar o seu banco de dados.
+### `yarn start`
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+
+3.Executa o aplicativo no modo de desenvolvimento na raiz do projeto com o comando.
+### `yarn start`
+Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo em seu navegador.
+
 
 
 
