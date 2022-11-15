@@ -1,0 +1,8 @@
+@import "~bootstrap/scss/bootstrap";
+
+.app {
+  background-color: rgb(24, 24, 66);
+  @media screen and (min-width: 902px) {
+    height: 100vw;
+  }
+}
